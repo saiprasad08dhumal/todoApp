@@ -1,8 +1,7 @@
 <?php
 
 $servername6213 = "localhost";
-//$username6213 = "saiprasad322";
-//$password6213 = "saiprasad322";
+
 
 $username6213 = "root";
 $password6213 = "";
