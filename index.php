@@ -26,9 +26,7 @@
     <tbody>
         <tr ng-repeat="x in todoList | orderBy: 'time'">
 
- <!--   <input type="text" id="indexValue" style="//display: none;" ng-model="x.mIndex">
-    
-    <input type="checkbox" ng-model="x.done"> -->
+
             
             <td><span ng-bind="x.time"></span> </td>   
             <td><span ng-bind="x.issueName"></span> </td>
